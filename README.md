@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byrty7
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ml
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me Email:byrty737@gmail.com
 
