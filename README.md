@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @byrty7
+- 👋 Hi, I’m ROHIT 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate with ...
