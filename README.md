@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ROHIT 
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate with ...
 - 📫 How to reach me Email:byrty737@gmail.com
 <!---
